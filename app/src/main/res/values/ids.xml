@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ketikulang" type="id" />
+    <item name="user_id" type="id" />
+    <item name="username" type="id" />
+    <item name="name" type="id" />
+    <item name="email" type="id" />
+</resources>
